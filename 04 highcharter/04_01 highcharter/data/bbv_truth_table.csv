@@ -1,0 +1,19 @@
+hiv.status,hbsag.status,hcv.rna.status,parv4.igg.status,parv4.dna.status,n,label
+HIV negative,HBsAg negative,HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,141,HIV negative <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+HIV negative,HBsAg negative,HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,35,HIV negative <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative
+HIV negative,HBsAg negative,HCV RNA negative,PARV4 IgG positive,PARV4 DNA positive,4,HIV negative <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA positive
+HIV negative,HBsAg positive,HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,4,HIV negative <br> HBsAg positive <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+HIV negative,HBsAg positive,HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,3,HIV negative <br> HBsAg positive <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative
+HIV negative,"NA",HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,17,HIV negative <br> NA <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+HIV negative,"NA",HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,10,HIV negative <br> NA <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative
+HIV positive,HBsAg negative,HCV RNA negative,"NA",PARV4 DNA negative,35,HIV positive <br> HBsAg negative <br> HCV RNA negative <br> NA <br> PARV4 DNA negative
+HIV positive,HBsAg negative,HCV RNA negative,"NA",PARV4 DNA positive,1,HIV positive <br> HBsAg negative <br> HCV RNA negative <br> NA <br> PARV4 DNA positive
+HIV positive,HBsAg negative,HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,155,HIV positive <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+HIV positive,HBsAg negative,HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,175,HIV positive <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative
+HIV positive,HBsAg positive,HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,18,HIV positive <br> HBsAg positive <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+HIV positive,HBsAg positive,HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,19,HIV positive <br> HBsAg positive <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative
+HIV positive,"NA",HCV RNA negative,"NA",PARV4 DNA negative,27,HIV positive <br> NA <br> HCV RNA negative <br> NA <br> PARV4 DNA negative
+HIV positive,"NA",HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,26,HIV positive <br> NA <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+HIV positive,"NA",HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,22,HIV positive <br> NA <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative
+"NA",HBsAg negative,HCV RNA negative,PARV4 IgG negative,PARV4 DNA negative,2,NA <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG negative <br> PARV4 DNA negative
+"NA",HBsAg negative,HCV RNA negative,PARV4 IgG positive,PARV4 DNA negative,1,NA <br> HBsAg negative <br> HCV RNA negative <br> PARV4 IgG positive <br> PARV4 DNA negative

@@ -1,0 +1,696 @@
+Row number,ID number,Cohort location,Cohort name,Adult / Child,Sex,HIV status,Age range (months),HBsAg status,HCV RNA status,PARV4 IgG status,PARV4 DNA status,HIV viral load (RNA copies / ml),CD4+ T cell count (cells/mm3),CD4+ T cell % (children only)
+1,B017,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,10800,377,No data
+2,B030,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,42700,No data,No data
+3,B040,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,12800,321,No data
+4,B103,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,106000,474,No data
+5,B104,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,25900,198,No data
+6,B109,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,2620,279,No data
+7,B110,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,90,No data
+8,B111,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,88000,482,No data
+9,B113,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,15300,271,No data
+10,B115,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,10100,171,No data
+11,B117,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1530,480,No data
+12,B118,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,15200,425,No data
+13,B119,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1340,311,No data
+14,B121,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,106000,157,No data
+15,B122,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,400,535,No data
+16,B123,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,437000,405,No data
+17,B127,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,37600,311,No data
+18,B128,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,50900,412,No data
+19,B130,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,261000,144,No data
+20,B133,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,24300,426,No data
+21,B134,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,204000,524,No data
+22,B135,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1020,366,No data
+23,B136,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,3920,677,No data
+24,B137,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,153000,238,No data
+25,B138,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,556000,184,No data
+26,B141,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,400,295,No data
+27,B142,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,13800,302,No data
+28,B144,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,25100,297,No data
+29,B145,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,261,No data
+30,B146,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,377000,276,No data
+31,B147,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,76100,745,No data
+32,B148,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,75900,243,No data
+33,B154,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,3220,353,No data
+34,B156,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,72000,92,No data
+35,B157,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,12500,225,No data
+36,B159,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,15200,404,No data
+37,B162,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,558,No data
+38,B163,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,80500,250,No data
+39,B166,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,8620,245,No data
+40,B167,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,22700,266,No data
+41,B168,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,3790,370,No data
+42,B171,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,309,No data
+43,B175,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,20100,435,No data
+44,B176,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,55000,338,No data
+45,B180,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,455,No data
+46,B181,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,136,No data
+47,B182,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,2340,287,No data
+48,B184,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,104000,413,No data
+49,B186,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,717,373,No data
+50,B188,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,114000,149,No data
+51,B189,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,26600,151,No data
+52,B190,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,99200,248,No data
+53,B191,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,899,167,No data
+54,B194,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,124000,193,No data
+55,B196,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1540,699,No data
+56,B197,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,34500,256,No data
+57,B198,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,400,582,No data
+58,B200,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,750000,78,No data
+59,B204,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,380000,261,No data
+60,B209,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,5870,287,No data
+61,B211,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,21700,433,No data
+62,B213,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,26800,420,No data
+63,B227,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,616,No data
+64,B236,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,12900,212,No data
+65,B242,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,25900,519,No data
+66,B258,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,36700,320,No data
+67,B267,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,1650,486,No data
+68,B278,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,2100,792,No data
+69,B310,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,344,No data
+70,B318,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,4390,143,No data
+71,B324,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,2010,459,No data
+72,B403,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,No data,No data
+73,B413,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,116000,251,No data
+74,B414,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,4080,686,No data
+75,B417,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,30600,355,No data
+76,B418,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,24500,338,No data
+77,B419,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,245,No data
+78,B420,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,385,No data
+79,B421,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,300000,516,No data
+80,B423,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,400,300,No data
+81,B424,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,24100,155,No data
+82,B426,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,28500,281,No data
+83,B428,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,157000,259,No data
+84,B429,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,57600,121,No data
+85,B432,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,5150,143,No data
+86,B433,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,400,369,No data
+87,B434,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,No data,No data
+88,B435,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,230,No data
+89,B436,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,174,No data
+90,B440,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,1170,470,No data
+91,B444,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,33500,410,No data
+92,B445,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1630,355,No data
+93,B450,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,2410,139,No data
+94,B451,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,3530,464,No data
+95,B452,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,12700,556,No data
+96,B453,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,9570,425,No data
+97,B454,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,818,478,No data
+98,B459,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,29800,682,No data
+99,B461,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,462,No data
+100,B464,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,213,No data
+101,B465,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,276,No data
+102,B466,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,No data,No data
+103,B467,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,111000,463,No data
+104,B468,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,293000,286,No data
+105,B469,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,140000,428,No data
+106,B470,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,323000,228,No data
+107,B471,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,55300,263,No data
+108,B473,"Gaborone, Botswana",Gaborone,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,803,501,No data
+109,ART931C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,Dec-23,No data,Negative,Positive,Negative,150000,143,No data
+110,ART967C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,No data,Negative,Negative,Negative,25000,425,12
+111,K003C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,Negative,Negative,Negative,Negative,4700,937,23
+112,K007C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,108-119,Negative,Negative,Negative,Negative,20000,589,30
+113,K008C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,84-95,Negative,Negative,Negative,Negative,No data,831,26.4
+114,K008M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,170000,536,No data
+115,K010C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,132-143,Negative,Negative,Negative,Negative,440000,268,16.8
+116,K010M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,100000,268,No data
+117,K012C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,72-83,Negative,Negative,Negative,Negative,50000,520,24.5
+118,K015C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,132-143,Negative,Negative,Negative,Negative,6700,326,22.3
+119,K016C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,96-107,Negative,Negative,Negative,Negative,32000,836,32.8
+120,K016M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,489,No data
+121,K017C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Negative,Negative,67000,1905,39.5
+122,K018C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,132-143,Negative,Negative,Negative,Negative,2000,841,22.4
+123,K019C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,120-131,Negative,Negative,Negative,Negative,No data,756,57.8
+124,K020C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,108-119,Negative,Negative,Positive,Negative,91000,835,20.1
+125,K023C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,144-155,Negative,Negative,Negative,Negative,No data,643,29.8
+126,K024C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,No data,Negative,Negative,Negative,1000,829,29.3
+127,K027C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Positive,Negative,17000,846,32.9
+128,K027M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,17000,353,No data
+129,K030C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Negative,Negative,39000,No data,No data
+130,K030M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,No data,400,No data
+131,K031C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,48-59,Negative,Negative,Negative,Negative,150000,1056,26.9
+132,K031M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,5200,765,No data
+133,K032C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Negative,Negative,105000,1750,37.3
+134,K033C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Negative,Negative,140000,1361,37.6
+135,K033M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,120000,242,No data
+136,K034C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,132-143,Negative,Negative,Negative,Negative,13000,213,21.1
+137,K036C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Negative,Negative,56000,634,18.6
+138,K040C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,96-107,Negative,Negative,Negative,Negative,14000,673,21
+139,K043C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,96-107,Negative,Negative,Negative,Negative,1500,1217,30.3
+140,K045C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,84-95,No data,Negative,Negative,Negative,68000,648,28.9
+141,K046C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Negative,Negative,220000,No data,No data
+142,K047C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,72-83,Negative,Negative,Negative,Negative,No data,616,26.7
+143,K049C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,84-95,Negative,Negative,Positive,Negative,<25,1117,34.2
+144,K049M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,<25,1117,No data
+145,K055C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,96-107,Negative,Negative,Negative,Negative,No data,477,15.6
+146,K060C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,84-95,Negative,Negative,Negative,Negative,120000,1069,32.6
+147,K079C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,108-119,Negative,Negative,Negative,Negative,160000,980,24.6
+148,K088C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,Negative,Negative,Negative,Negative,360000,1282,33.5
+149,K088M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,72000,326,No data
+150,K089C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,48-59,Negative,Negative,Negative,Negative,370000,925,25
+151,K089M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,325,No data
+152,K091C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,132-143,Negative,Negative,Negative,Negative,12000,22,22.2
+153,K091M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,150000,23,No data
+154,K093C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,120-131,Negative,Negative,Negative,Negative,131000,1136,14.1
+155,K093M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,25000,210,No data
+156,K097C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,36-47,Negative,Negative,Positive,Negative,55000,1423,32
+157,K097M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,15000,308,No data
+158,K105C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,Negative,Negative,330000,1418,30
+159,K105M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,4500,222,No data
+160,K113C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,24-35,Negative,Negative,Negative,Negative,500000,571,29.6
+161,K113M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,18000,447,No data
+162,K115C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,Negative,Negative,Negative,Negative,260000,209,12.9
+163,K115M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,220000,242,No data
+164,K125C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,Positive,Negative,13000,1703,27.3
+165,K125M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,3190,225,No data
+166,K128C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Positive,Negative,52000,1082,29.6
+167,K129C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,No data,Negative,Positive,Negative,No data,770,No data
+168,K129M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,No data,No data
+169,K139C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,24-35,Negative,Negative,Negative,Negative,70000,3005,41
+170,K139M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,144,No data
+171,K142C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,120-131,Negative,Negative,Positive,Negative,No data,200,26.8
+172,K142M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,200,No data
+173,K155C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,108-119,Negative,Negative,Positive,Negative,7700,772,38
+174,K155M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,651947,383,No data
+175,K170C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Positive,Negative,65199,967,21.4
+176,K177C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,72-83,No data,Negative,Negative,Negative,74140,995,16.2
+177,K186C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Negative,Negative,11000,1603,No data
+178,K187C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,120-131,No data,Negative,Negative,Negative,No data,918,33.7
+179,K190C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,72-83,No data,Negative,Negative,Negative,<25,274,26.7
+180,K191C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,No data,Negative,Negative,Negative,35000,822,35
+181,K192C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,No data,Negative,Negative,Negative,44000,277,27.6
+182,K195C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,Negative,Negative,Positive,Negative,36686,424,15.9
+183,K300C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,Negative,Negative,Negative,Negative,No data,493,8.54
+184,K300M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,282,No data
+185,K3002C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,108-119,No data,Negative,Positive,Negative,No data,543,13.3
+186,K3005C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,108-119,No data,Negative,Positive,Negative,No data,498,23.5
+187,K3008C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,108-119,No data,Negative,Negative,Negative,No data,587,25.2
+188,K301C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,0-11,Negative,Negative,Negative,Negative,16000000,283,29.8
+189,K301M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,177,No data
+190,K3010C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Negative,Negative,23199,938,36.5
+191,K3013C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Positive,Negative,54000,1018,25.6
+192,K3013M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,74860,300,No data
+193,K3014C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,No data,Negative,Negative,Negative,7145,707,39.9
+194,K3016C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,84-95,No data,Negative,Positive,Negative,890000,2137,24
+195,K3016M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,628,No data
+196,K302C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,Negative,Negative,No data,193,15.7
+197,K302M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,140000,No data,No data
+198,K3022C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,48-59,No data,Negative,Positive,Negative,3008,1270,31.4
+199,K3029C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,Positive,Negative,772625,974,16.6
+200,K3030C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Positive,Negative,No data,633,23.4
+201,K3031C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,Negative,Negative,Positive,Negative,580000,445,15.1
+202,K3051C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,48-59,Negative,Negative,Negative,Negative,358592,1333,30
+203,K306C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,Negative,Negative,No data,426,5.5
+204,K306M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,431,No data
+205,K3068C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,48-59,No data,Negative,Negative,Negative,437481,575,30.5
+206,K307C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,Negative,Negative,4702,247,13.6
+207,K307M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,463,No data
+208,K308C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,36-47,Negative,Negative,Negative,Negative,No data,1190,17.9
+209,K308M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,311,No data
+210,K309C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,0-11,Negative,Negative,Negative,Negative,No data,743,15.4
+211,K309M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,No data,No data
+212,K3092C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,84-95,Negative,Negative,Positive,Negative,4028,786,28.2
+213,K3095C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,84-95,Negative,Negative,Positive,Negative,34000,368,15.8
+214,K3098C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,72-83,No data,Negative,Negative,Negative,No data,724,13.6
+215,K310C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,0-11,Negative,Negative,Negative,Negative,No data,177,7.7
+216,K310M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,No data,No data
+217,K3100C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,96-107,No data,Negative,Negative,Negative,42180,747,23.8
+218,K312C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,Negative,Negative,No data,319,7.5
+219,K312M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,370,No data
+220,K316C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,Negative,Negative,No data,659,15
+221,K316M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,No data,No data
+222,K317C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,Negative,Negative,No data,1392,19.6
+223,K317M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,470,No data
+224,K318C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,No data,Negative,Negative,Negative,No data,707,20.4
+225,K318M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,555,No data
+226,K330C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,24-35,Negative,Negative,Negative,Negative,No data,903,17.3
+227,K330M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,795,No data
+228,K332C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,No data,Negative,Negative,Negative,No data,237,19
+229,K332M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,285,No data
+230,K333C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,Negative,Negative,No data,493,20.3
+231,K333M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,No data,No data
+232,K335C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,No data,Negative,Positive,Negative,No data,1495,26
+233,K335M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,Negative,Negative,No data,No data,No data
+234,K336C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,24-35,Negative,Negative,Positive,Negative,No data,752,11.7
+235,K336M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,No data,No data
+236,K361C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,72-83,Negative,Negative,Negative,Negative,No data,527,11.6
+237,K361M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,320,No data
+238,K363C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Positive,Negative,No data,1243,15.2
+239,K363M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,663,No data
+240,K389C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,72-83,Negative,Negative,Negative,Negative,No data,217,19.7
+241,K389M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,No data,No data
+242,SK002,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1330,572,No data
+243,SK003,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,91000,76,No data
+244,SK004,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,527000,242,No data
+245,SK006,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,122000,195,No data
+246,SK007,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,339000,140,No data
+247,SK008,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,8530,491,No data
+248,SK009,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,27600,458,No data
+249,SK010,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,6480,448,No data
+250,SK011,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,7480,319,No data
+251,SK013,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,108000,437,No data
+252,SK015,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,2750,161,No data
+253,SK016,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,331000,195,No data
+254,SK020,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,129000,152,No data
+255,SK021,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,No data,No data
+256,SK022,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,161000,276,No data
+257,SK023,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,149000,368,No data
+258,SK024,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,481,427,No data
+259,SK026,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,6190,529,No data
+260,SK029,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,361000,344,No data
+261,SK030,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,53300,205,No data
+262,SK031,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1720000,302,No data
+263,SK032,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,28300,192,No data
+264,SK034,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,5100,360,No data
+265,SK035,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,94400,788,No data
+266,SK036,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,No data,Negative,Positive,Negative,No data,No data,No data
+267,SK037,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,376000,663,No data
+268,SK040,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,164000,306,No data
+269,SK041,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,251000,417,No data
+270,SK042,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,8510000,415,No data
+271,SK043,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,975000,55,No data
+272,SK044,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,40900,319,No data
+273,SK045,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,2890,488,No data
+274,SK046,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,4850,381,No data
+275,SK047,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,15300,547,No data
+276,SK048,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,37600,255,No data
+277,SK049,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,331000,200,No data
+278,SK050,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,36200,533,No data
+279,SK051,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,327000,124,No data
+280,SK052,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,7120,204,No data
+281,SK054,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,23000,283,No data
+282,SK055,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,226000,615,No data
+283,SK058,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,94300,178,No data
+284,SK059,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,5370,374,No data
+285,SK060,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,110000,32,No data
+286,SK062,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,45000,575,No data
+287,SK063,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,17700,276,No data
+288,SK066,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,73800,300,No data
+289,SK067,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,192000,308,No data
+290,SK068,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,44100,623,No data
+291,SK070,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1320000,130,No data
+292,SK071,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,2760,562,No data
+293,SK072,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,35600,211,No data
+294,SK073,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,109000,424,No data
+295,SK074,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,2790,618,No data
+296,SK075,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,25900,384,No data
+297,SK076,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,77200,123,No data
+298,SK078,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,116000,156,No data
+299,SK079,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,926,711,No data
+300,SK081,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,29700,499,No data
+301,SK084,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,574000,103,No data
+302,SK085,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,125000,277,No data
+303,SK086,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,625,1055,No data
+304,SK088,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,2850,532,No data
+305,SK089,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,845,550,No data
+306,SK090,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,22400,61,No data
+307,SK091,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,No data,475,No data
+308,SK093,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,64100,355,No data
+309,SK094,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,341,No data
+310,SK095,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1537,588,No data
+311,SK098,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,537,No data
+312,SK099,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,618000,132,No data
+313,SK100,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,19400,303,No data
+314,SK101,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,44100,392,No data
+315,SK102,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,22400,231,No data
+316,SK103,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,2397,No data
+317,SK104,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,582000,195,No data
+318,SK106,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,181000,196,No data
+319,SK107,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,5630,328,No data
+320,SK108,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,45700,425,No data
+321,SK109,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,84900,94,No data
+322,SK110,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,453,No data
+323,SK111,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,20750,638,No data
+324,SK112,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,750001,108,No data
+325,SK113,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,7700,416,No data
+326,SK114,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,6970,358,No data
+327,SK115,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,228000,252,No data
+328,SK116,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,22000,305,No data
+329,SK117,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,147000,125,No data
+330,SK118,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,445,No data
+331,SK119,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,7450,265,No data
+332,SK120,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,1775000,259,No data
+333,SK122,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,40,224,No data
+334,SK123,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,118000,223,No data
+335,SK126,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,583000,275,No data
+336,SK131,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,97500,25,No data
+337,SK132,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,511000,179,No data
+338,SK133,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,157000,54,No data
+339,SK134,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,431000,288,No data
+340,SK135,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,422000,254,No data
+341,SK136,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Positive,Negative,58800,237,No data
+342,SK138,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,40900,293,No data
+343,SK139,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,95600,201,No data
+344,SK141,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,20000,274,No data
+345,SK142,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,56400,344,No data
+346,SK144,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,3190,210,No data
+347,SK145,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,37800,164,No data
+348,SK147,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,53900,293,No data
+349,SK148,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,3780,1020,No data
+350,SK149,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,26100,1020,No data
+351,SK150,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,9600,282,No data
+352,SK154,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,139000,61,No data
+353,SK155,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,9000,631,No data
+354,SK156,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,13500,297,No data
+355,SK157,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,399,308,No data
+356,SK158,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,667,421,No data
+357,SK159,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,31000,344,No data
+358,SK160,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,326000,123,No data
+359,SK162,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,35200,662,No data
+360,SK163,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,26600,597,No data
+361,SK164,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,318000,279,No data
+362,SK165,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,62500,204,No data
+363,SK166,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,398000,154,No data
+364,SK167,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,789,No data
+365,SK168,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,278000,399,No data
+366,SK169,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,2210,405,No data
+367,SK170,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,373200,106,No data
+368,SK171,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,79400,358,No data
+369,SK172,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,114000,119,No data
+370,SK173,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,67300,202,No data
+371,SK175,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,111000,330,No data
+372,SK176,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,425000,294,No data
+373,SK177,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,633,749,No data
+374,SK178,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,222000,212,No data
+375,SK179,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,91600,416,No data
+376,SK180,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,1360,460,No data
+377,SK181,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,5410,276,No data
+378,SK182,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,76600,208,No data
+379,SK183,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,399,993,No data
+380,SK184,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,238,No data
+381,SK185,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,163,No data
+382,SK186,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,43000,460,No data
+383,SK187,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1600,533,No data
+384,SK188,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1650,766,No data
+385,SK189,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,49,242,No data
+386,SK190,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,750001,306,No data
+387,SK191,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Positive,Negative,Negative,Negative,76900,213,No data
+388,SK192,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,750001,225,No data
+389,SK193,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,101000,23,No data
+390,SK194,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1240,930,No data
+391,SK197,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,24200,396,No data
+392,SK199,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,244,594,No data
+393,SK200,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,14360,395,No data
+394,SK201,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,59200,522,No data
+395,SK202,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,798000,377,No data
+396,SK203,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,90700,189,No data
+397,SK205,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,No data,720,No data
+398,SK206,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,83200,179,No data
+399,SK208,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,380000,173,No data
+400,SK209,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,1800,559,No data
+401,SK212,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,22800,636,No data
+402,SK213,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,15126,234,No data
+403,Sk214,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,1846,318,No data
+404,SK215,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,28400,217,No data
+405,SK216,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,6570,331,No data
+406,SK217,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,307000,144,No data
+407,SK218,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,2530,399,No data
+408,SK221,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,9740,324,No data
+409,SK222,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,4570,479,No data
+410,SK224,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,399,389,No data
+411,SK225,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,No data,961,No data
+412,SK226,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,18200,663,No data
+413,SK227,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,24200,138,No data
+414,SK228,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Negative,Negative,11000,57,No data
+415,SK240,"Durban, South Africa",Sinikethemba,Adult,F,Positive,No data,Negative,Negative,Positive,Negative,155000,308,No data
+416,MASI-200-30-0004,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+417,MASI-200-30-0005,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+418,MASI-200-30-0006,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+419,MASI-200-30-0007,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+420,MASI-200-30-0102,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Positive,Negative,Negative,Negative,n/a,n/a,n/a
+421,MASI-?,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,No data,Negative,Negative,Negative,n/a,n/a,n/a
+422,MASI-200-30-0008,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+423,MASI-200-30-0009,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+424,MASI-200-30-0011,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+425,MASI-200-30-0012,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+426,MASI-200-30-0014,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+427,MASI-200-30-0016,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+428,MASI-200-30-0017,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+429,MASI-200-30-0020,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+430,MASI-200-30-0022,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+431,MASI-200-30-0023,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+432,MASI-200-30-0024,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+433,MASI-200-30-0025,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+434,MASI-200-30-0026,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+435,MASI-200-30-0028,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+436,MASI-200-30-0036,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+437,MASI-200-30-0037,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+438,MASI-200-30-0038,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+439,MASI-200-30-0040,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+440,MASI-200-30-0041,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+441,MASI-200-30-0043,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+442,MASI-200-30-0045,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+443,MASI-200-30-0046,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+444,MASI-200-30-0047,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+445,MASI-200-30-0049,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+446,MASI-200-30-0050,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+447,MASI-200-30-0051,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+448,MASI-200-30-0054,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+449,MASI-200-30-0055,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+450,MASI-200-30-0059,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+451,MASI-200-30-0031,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Positive,Negative,Negative,Negative,n/a,n/a,n/a
+452,MASI-200-30-0060,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+453,MASI-200-30-0062,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+454,MASI-200-30-0064,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+455,MASI-200-30-0065,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+456,MASI-200-30-0067,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+457,MASI-200-30-0069,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+458,MASI-200-30-0071,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+459,MASI-200-30-0108,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Positive,Negative,Negative,Negative,n/a,n/a,n/a
+460,MASI-200-30-0074,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+461,MASI-200-30-0075,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+462,MASI-200-30-0076,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+463,MASI-200-30-0077,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+464,MASI-200-30-0078,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+465,MASI-200-30-0080,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+466,MASI-200-30-0082,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+467,MASI-200-30-0083,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+468,MASI-200-30-0084,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+469,MASI-200-30-0085,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+470,MASI-200-30-0098,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Positive,Negative,Positive,Negative,n/a,n/a,n/a
+471,MASI-200-30-0086,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+472,MASI-200-30-0002,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Positive,Negative,Positive,Negative,n/a,n/a,n/a
+473,MASI-200-30-0088,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+474,MASI-200-30-0089,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+475,MASI-200-30-0091,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+476,MASI-200-30-0101,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+477,MASI-200-30-0100,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Positive,Negative,Positive,Negative,n/a,n/a,n/a
+478,MASI-200-30-0103,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+479,MASI-200-30-0106,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+480,MASI-200-30-0107,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+481,MASI-200-30-0109,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+482,MASI-200-30-0110,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+483,MASI-200-30-0112,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+484,MASI-200-30-0116,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+485,MASI-200-30-0117,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+486,MASI-200-30-0118,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+487,MASI-200-30-0119,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+488,MASI-200-30-0039,"Durban, South Africa",Masibambisane,Adult,F,Negative,No data,Negative,Negative,Positive,Positive,n/a,n/a,n/a
+489,H1C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,108-119,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+490,H10C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,48-59,No data,Negative,Negative,Negative,n/a,n/a,n/a
+491,H11C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,36-47,No data,Negative,Positive,Negative,n/a,n/a,n/a
+492,H12C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,108-119,No data,Negative,Negative,Negative,n/a,n/a,n/a
+493,H13C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,84-95,No data,Negative,Negative,Negative,n/a,n/a,n/a
+494,H14C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,108-119,No data,Negative,Positive,Negative,n/a,n/a,n/a
+495,H15C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,36-47,No data,Negative,Negative,Negative,n/a,n/a,n/a
+496,H16C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,120-131,No data,Negative,Positive,Negative,n/a,n/a,n/a
+497,H17C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,72-83,No data,Negative,Negative,Negative,n/a,n/a,n/a
+498,H18C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,84-95,No data,Negative,Positive,Negative,n/a,n/a,n/a
+499,H19C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,36-47,No data,Negative,Positive,Negative,n/a,n/a,n/a
+500,H2C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,96-107,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+501,H21C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,84-95,No data,Negative,Negative,Negative,n/a,n/a,n/a
+502,H22C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,96-107,No data,Negative,Positive,Negative,n/a,n/a,n/a
+503,H23C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,0-11,No data,Negative,Positive,Negative,n/a,n/a,n/a
+504,H24C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,156-167,No data,Negative,Negative,Negative,n/a,n/a,n/a
+505,H25C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,132-143,No data,Negative,Negative,Negative,n/a,n/a,n/a
+506,H3C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,48-59,No data,Negative,Negative,Negative,n/a,n/a,n/a
+507,H4C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,84-95,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+508,H5C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,96-107,No data,Negative,Positive,Negative,n/a,n/a,n/a
+509,H6C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,72-83,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+510,H7C,"Kimberley, South Africa",Kimberley healthy,Child,M,Negative,48-59,No data,Negative,Negative,Negative,n/a,n/a,n/a
+511,H8C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,72-83,No data,Negative,Positive,Negative,n/a,n/a,n/a
+512,H9C,"Kimberley, South Africa",Kimberley healthy,Child,F,Negative,0-11,No data,Negative,Positive,Negative,n/a,n/a,n/a
+513,KREC001,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+514,KREC002,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+515,KREC003,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+516,KREC004,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+517,KREC005,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+518,KREC006,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+519,KREC007,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+520,KREC008,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+521,KREC009,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Positive,Positive,n/a,n/a,n/a
+522,KREC010,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+523,KREC011,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+524,KREC012,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+525,KREC013,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+526,KREC014,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+527,KREC015,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+528,KREC016,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+529,KREC017,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+530,KREC018,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+531,KREC019,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+532,KREC020,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+533,KREC021,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,No data,Negative,Negative,Negative,n/a,n/a,n/a
+534,KREC025,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+535,KREC026,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,No data,Negative,Negative,Negative,n/a,n/a,n/a
+536,KREC027,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+537,KREC028,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+538,KREC032,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+539,KREC033,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+540,KREC036,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,No data,Negative,Negative,Negative,n/a,n/a,n/a
+541,KREC037,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+542,KREC038,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+543,KREC039,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+544,KREC040,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,No data,Negative,Negative,Negative,n/a,n/a,n/a
+545,KREC044,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+546,KREC045,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+547,KREC047,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+548,KREC048,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+549,KREC050,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+550,KREC051,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Positive,Negative,Negative,Negative,n/a,n/a,n/a
+551,KREC052,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+552,KREC053,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+553,KREC056,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+554,KREC057,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+555,KREC058,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+556,KREC059,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+557,KREC060,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,No data,Negative,Negative,Negative,n/a,n/a,n/a
+558,KREC061,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+559,KREC062,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+560,KREC063,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+561,KREC064,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+562,KREC065,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+563,KREC066,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+564,KREC067,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,No data,Negative,Negative,Negative,n/a,n/a,n/a
+565,KREC068,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,120-131,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+566,KREC072,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+567,KREC075,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+568,KREC076,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+569,KREC078,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+570,KREC079,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,36-47,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+571,KREC080,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+572,KREC082,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+573,KREC083,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+574,KREC085,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,No data,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+575,KREC086,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+576,KREC087,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+577,KREC088,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,24-35,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+578,KREC089,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Positive,Positive,n/a,n/a,n/a
+579,KREC090,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+580,KREC091,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+581,KREC092,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,48-59,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+582,KREC093,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+583,KREC094,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+584,KREC095,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+585,KREC096,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+586,KREC097,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+587,KREC098,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+588,KREC099,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+589,KREC100,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+590,KREC101,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,No data,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+591,KREC102,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Positive,Positive,n/a,n/a,n/a
+592,KREC103,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+593,KREC104,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+594,KREC105,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+595,KREC106,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+596,KREC107,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+597,KREC108,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+598,KREC110,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+599,KREC111,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+600,KREC112,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,72-83,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+601,KREC113,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+602,KREC114,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+603,KREC115,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+604,KREC116,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+605,KREC117,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,No data,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+606,KREC118,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+607,KREC119,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+608,KREC120,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,24-35,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+609,KREC121,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+610,KREC122,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+611,KREC123,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,Dec-23,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+612,KREC124,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+613,KREC126,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+614,KREC127,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+615,KREC128,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+616,KREC129,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+617,KREC130,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+618,KREC131,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+619,KREC132,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+620,KREC133,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+621,KREC134,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+622,KREC135,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+623,KREC136,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,36-47,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+624,KREC137,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+625,KREC138,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+626,KREC139,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+627,KREC140,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+628,KREC141,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,No data,0-11,Negative,Negative,Positive,Negative,n/a,n/a,n/a
+629,KREC142,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+630,KREC143,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+631,KREC144,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,F,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+632,KREC145,"Kimberley, South Africa",Kimberley Respiratory Cohort,Child,M,Negative,0-11,Negative,Negative,Negative,Negative,n/a,n/a,n/a
+633,K002M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,374,No data
+634,K044M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,224,No data
+635,K065M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,395,No data
+636,K084M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,42000,No data,No data
+637,K098M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,No data,No data
+638,K148M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,25894,162,No data
+639,K172M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,582,No data
+640,K188M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,475,No data
+641,K3009M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,946,No data
+642,K303M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,No data,No data
+643,K3091M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,No data,No data
+644,K3104M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,707,No data
+645,K311M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,118,No data
+646,K313M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,70000,411,No data
+647,K327M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,96,No data
+648,K331M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,264330,148,No data
+649,K346M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,No data,No data
+650,K362M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,17797,508,No data
+651,K370M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,548,No data
+652,K380M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,3000,211,No data
+653,K390M,"Kimberley, South Africa",Kimberley HIV cohort,Adult,F,Positive,No data,No data,Negative,No data,Negative,No data,528,No data
+654,K002C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,48-59,Negative,Negative,No data,Negative,4900,1072,20.1
+655,K013C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,60-71,Negative,Negative,No data,Negative,3300,831,22.1
+656,K026C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,60-71,Negative,Negative,No data,Negative,38000,1657,41.6
+657,K044C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,48-59,Negative,Negative,No data,Negative,360000,2836,28.3
+658,K065C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,60-71,Negative,Negative,No data,Negative,No data,395,28.1
+659,K084C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,Negative,Negative,No data,Negative,110000,742,27.8
+660,K098C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,No data,Negative,24000,939,21
+661,K115C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,Negative,Negative,No data,Negative,260000,209,12.9
+662,K125C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,No data,Negative,13000,1703,27.3
+663,K131C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,24-35,Negative,Negative,No data,Negative,3600,1412,24
+664,K137C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,36-47,Negative,Negative,No data,Negative,150000,1600,32.1
+665,K138C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,Negative,Negative,No data,Negative,2100000,1027,15.4
+666,K145C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,No data,Negative,No data,Negative,110000,869,27.1
+667,K146C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,36-47,Negative,Negative,No data,Negative,6300,590,22.3
+668,K148C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,60-71,No data,Negative,No data,Negative,300000,500,21.9
+669,K150C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,36-47,Negative,Negative,No data,Negative,7000,988,31.4
+670,K152C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,Dec-23,Negative,Negative,No data,Negative,No data,1851,40.5
+671,K156C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,48-59,Negative,Negative,No data,Negative,1700,942,28
+672,K161C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,Dec-23,Negative,Negative,No data,Negative,260000,3143,39
+673,K172C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,36-47,Negative,Negative,No data,Positive,No data,1381,31
+674,K176C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,Negative,Negative,No data,Negative,180000,No data,No data
+675,K184C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,No data,Negative,112949,1048,24.9
+676,K188C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,24-35,Negative,Negative,No data,Negative,7650,1327,31.4
+677,K196C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,No data,Negative,No data,Negative,120000,1136,25.2
+678,K3009C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,48-59,Negative,Negative,No data,Negative,139007,1228,18.5
+679,K303C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,No data,521,6.8
+680,K304C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,20000000,895,14.9
+681,K3091C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,No data,Negative,No data,Negative,4028,786,28.2
+682,K3101C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,No data,Negative,213600,1993,35.6
+683,K3104C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,24-35,Negative,Negative,No data,Negative,124563,3560,38.8
+684,K3106C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,60-71,Negative,Negative,No data,Negative,91939,1133,20
+685,K311C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,20000000,214,8.8
+686,K313C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,0-11,Negative,Negative,No data,Negative,5600000,323,11.4
+687,K327C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,No data,Negative,No data,Negative,5000000,111,13.2
+688,K331C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,Negative,Negative,No data,Negative,No data,1548,21.3
+689,K346C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,1100000,71,13.7
+690,K362C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,Dec-23,No data,Negative,No data,Negative,35000,429,7.8
+691,K370C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,Dec-23,Negative,Negative,No data,Negative,550000,581,15
+692,K379C,"Kimberley, South Africa",Kimberley HIV cohort,Child,F,Positive,Dec-23,Negative,Negative,No data,Negative,3300000,228,11.3
+693,K380C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,1063083,130,3.6
+694,K383C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,361,919,26.7
+695,K390C,"Kimberley, South Africa",Kimberley HIV cohort,Child,M,Positive,0-11,Negative,Negative,No data,Negative,56715,2012,36.8

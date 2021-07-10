@@ -1,0 +1,101 @@
+---
+title: "Geolines"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+# Data
+
+This is a pseudo-random dataset generated from a currently unpublished research project at University of Oxford, the DOI for which is: https://doi.org/10.6084/m9.figshare.4516772
+
+The original study concerned the letters sent between German migrants and their families in the 19th and 20th Century, in our dataset the dates have been randomised and an additional random variable "number.of.letters" has been added. Here's the dataset:
+
+```{r}
+library("tidyverse")
+library("DT")
+sample_geo_lines <- read_csv("data/sample_geo_lines.csv")
+datatable(sample_geo_lines)
+```
+
+# Geolines with Leaflet and geosphere
+
+The `leaflet` library doesn't have an in-built function for computing great circles, so we need to use a the `geosphere` library:
+
+```{r}
+library("geosphere")
+geo_lines <- gcIntermediate(
+  sample_geo_lines %>%
+    select(start.longitude, start.latitude),
+  sample_geo_lines %>%
+    select(end.longitude, end.latitude),
+  sp = TRUE, # SpatialLines are what Leaflet wants
+  addStartEnd = TRUE, # By default this is FALSE, and would be inaccurate
+  n = 50 # number of intermediate points
+)
+summary(geo_lines)
+```
+
+These can now be visualised simply with leaflet as follows:
+
+```{r}
+library("leaflet")
+leaflet() %>%
+  addTiles() %>%
+  addPolylines(data = geo_lines, color = "#2c7bb6", opacity = 0.2)
+```
+
+We can add on points for the start/end points as follows:
+
+```{r}
+leaflet() %>%
+  addTiles() %>%
+  addPolylines(data = geo_lines, color = "#2c7bb6", opacity = 0.2) %>%
+  addCircleMarkers(data = sample_geo_lines, 
+                   lat = ~end.latitude, 
+                   lng = ~end.longitude,
+                   radius = 3,
+                   color = "#1b9e77",
+                   popup = ~paste("Location:", end.location, "<p>Total Items Received:", items.received)) %>%
+  addCircleMarkers(data = sample_geo_lines, 
+                   lat = ~start.latitude, 
+                   lng = ~start.longitude,
+                   radius = 3,
+                   color = "#d95f02",
+                   popup = ~paste("Location:", start.location, "<p>Total Items Sent:", items.send))
+```
+
+# Adding state boundaries
+
+The `leaflet` library makes it very simple to create choropleth using `SpatialPolygonsDataFrame`, which we can add as an additional layer to our chart:
+
+```{r}
+library("statesRcontiguous")
+leaflet() %>%
+  addTiles() %>%
+  addPolylines(data = geo_lines, color = "#2c7bb6", opacity = 0.2) %>%
+  addPolygons(data = shp_all_us_states,
+              weight = 1,
+              color = "#000000",
+              popup = ~paste("State:", state.name)
+              ) %>%
+  addCircleMarkers(data = sample_geo_lines, 
+                   lat = ~end.latitude, 
+                   lng = ~end.longitude,
+                   radius = 3,
+                   color = "#1b9e77",
+                   popup = ~paste("Location:", end.location, "<p>Total Items Received:", items.received)) %>%
+  addCircleMarkers(data = sample_geo_lines, 
+                   lat = ~start.latitude, 
+                   lng = ~start.longitude,
+                   radius = 3,
+                   color = "#d95f02",
+                   popup = ~paste("Location:", start.location, "<p>Total Items Sent:", items.send))
+```
+

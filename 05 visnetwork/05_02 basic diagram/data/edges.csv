@@ -1,0 +1,78 @@
+send.location,receive.location,total.items,weight
+USA Orange NJ,DEU Ribnitz Mecklenburg,352,1
+USA Cincinnati OH,DEU Ribnitz Mecklenburg,4916,12
+USA Newport KY,DEU Ribnitz Mecklenburg,2695,6
+USA Oskaloosa IA,DEU Ribnitz Mecklenburg,12925,32
+USA Warsaw IL,DEU Ribnitz Mecklenburg,2985,7
+USA Koekuk IA?,DEU Ribnitz Mecklenburg,814,2
+USA Maisfeld near Oskaloosa,DEU Ribnitz Mecklenburg,542,1
+USA Monroe MI,DEU Nienhagen Mecklenburg,360,1
+USA Tonawanda NY,DEU Nienhagen Mecklenburg,4203,11
+USA Oak Grove WI,DEU Neubrunn TH,2389,6
+USA Edwardsville IL,DEU Neubrunn TH,2775,7
+USA New York NY,DEU Limbach SA,8258,20
+USA Williamsburg NY,DEU Limbach SA,980,3
+USA Brooklyn NY,DEU Limbach SA,1960,5
+USA San Francisco CA,DEU Limbach SA,6851,17
+USA Union Hill NY,DEU Limbach SA,408,1
+USA Sonoma CA,DEU Limbach SA,1194,3
+DEU OberweiÃŸbach TH,USA Brooklyn NY,413,1
+USA Brooklyn NY,DEU OberweiÃŸbach TH,17692,43
+USA Waterloo WI,DEU Roda TH,826,2
+"USA Amherst, Portage Co. WI",DEU Roda TH,6808,16
+USA Minneapolis MN,DEU Apolda TH,452,1
+DEU GrÃ¤fenthal TH,USA New York NY,314,1
+DEU Piesau TH,USA New York NY,586,2
+USA Austin TX,DEU Piesau TH,2540,6
+USA New York NY,DEU Piesau TH,2367,6
+USA Brenham TX,DEU Piesau TH,3152,8
+DEU Leipzig SA,DEU Leisnig SA,432,1
+USA Oliverea NY,USA New York NY,449,1
+USA Trenton NJ,DEU MÃ¼hlhausen TH,3089,8
+DEU Erfurt TH,DEU MÃ¼hlhausen TH,322,1
+USA Perry OK,DEU Jena TH,981,2
+USA Shamrock OK,DEU Jena TH,401,1
+USA Midford OK,DEU Jena TH,306,1
+USA Wellington KS,DEU Jena TH,355,1
+USA Rochester NY,DEU Jena TH,3823,9
+USA Pittsburgh PN,DEU Jena TH,2541,6
+USA Brownfield TX,DEU Jena TH,435,1
+USA Plainview TX,DEU Jena TH,697,2
+USA Lubbock TX,DEU Jena TH,2243,6
+USA Sweetwater TX,DEU Jena TH,869,2
+USA Spur TX,DEU Jena TH,335,1
+USA Haskell TX,DEU Jena TH,866,2
+USA Lamesa TX,DEU Jena TH,1010,3
+USA Big Spring TX,DEU Jena TH,356,1
+USA Seymour TX,DEU Jena TH,896,2
+USA Guanah TX,DEU Jena TH,511,1
+USA Perryto TX,DEU Jena TH,492,1
+USA Burlington CO,DEU Jena TH,456,1
+USA Stratton CO,DEU Jena TH,445,1
+USA Ozona TX,DEU Jena TH,564,2
+USA Seminole TX,DEU Jena TH,1324,3
+DEU Jena TH,USA Texas various places,2860,7
+USA Cleveland OH,DEU Remptendorf TH,607,2
+USA Covington KY,DEU Remptendorf TH,480,1
+USA Ohio OH,DEU Remptendorf TH,750,2
+USA O. Folly Island SC,DEU Remptendorf TH,563,2
+USA Fernandina FL,DEU Remptendorf TH,1964,6
+USA Jacksonville FL,DEU Remptendorf TH,554,1
+USA St. Augustine FL,DEU Remptendorf TH,2419,5
+USA New York NY,DEU Remptendorf TH,3351,9
+USA Blue Ridge Summit PA,DEU Remptendorf TH,7369,18
+USA Chicago IL,DEU Remptendorf TH,262,1
+USA Orange NJ,DEU Remptendorf TH,1794,4
+USA Warrensville OH,DEU Remptendorf TH,1178,3
+USA Ann Arbor MI,DEU Remptendorf TH,1804,4
+USA Homer OH,DEU Remptendorf TH,351,1
+USA Wilmington Delaware,DEU Remptendorf TH,3234,8
+USA Columbus OH,DEU Remptendorf TH,2384,6
+USA Wood Ridge NJ,DEU Remptendorf TH,825,2
+USA Jersey City NJ,DEU Remptendorf TH,4158,10
+USA Princeton NJ,DEU Remptendorf TH,506,1
+USA Port Cester NY,DEU Remptendorf TH,382,1
+USA Rutherford NJ,DEU Remptendorf TH,325,1
+USA Carlstadt NJ,DEU Remptendorf TH,7596,19
+DEU Sebnitz S,USA Carlstadt NJ,351,1
+USA Lime Ridge WI,DEU Remptendorf TH,946,3

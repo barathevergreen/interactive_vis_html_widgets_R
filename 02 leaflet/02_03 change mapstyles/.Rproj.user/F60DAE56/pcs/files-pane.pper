@@ -1,0 +1,13 @@
+{
+    "path" : "~/Desktop/Exercise Files/02_03",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 1
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

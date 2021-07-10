@@ -1,0 +1,692 @@
+timestamp,count,country,country_group,occupation
+2017-04-11,3,Albania,other Europe,Clerical and data entry
+2017-04-11,5,Algeria,all Africa,Clerical and data entry
+2017-04-11,2,Antigua and Barbuda,all Africa,Clerical and data entry
+2017-04-11,11,Argentina,other Americas,Clerical and data entry
+2017-04-11,6,Armenia,other Asia and Oceania,Clerical and data entry
+2017-04-11,732,Australia,Australia,Clerical and data entry
+2017-04-11,35,Austria,other Europe,Clerical and data entry
+2017-04-11,6,Azerbaijan,other Asia and Oceania,Clerical and data entry
+2017-04-11,3,Bahamas,other Americas,Clerical and data entry
+2017-04-11,5,Bahrain,other Asia and Oceania,Clerical and data entry
+2017-04-11,35,Bangladesh,all Africa,Clerical and data entry
+2017-04-11,2,Belarus,other Europe,Clerical and data entry
+2017-04-11,25,Belgium,other Europe,Clerical and data entry
+2017-04-11,2,Botswana,all Africa,Clerical and data entry
+2017-04-11,30,Brazil,other Americas,Clerical and data entry
+2017-04-11,18,Bulgaria,other Europe,Clerical and data entry
+2017-04-11,3,Cambodia,other Americas,Clerical and data entry
+2017-04-11,2,Cameroon,all Africa,Clerical and data entry
+2017-04-11,622,Canada,Canada,Clerical and data entry
+2017-04-11,5,Chile,other Americas,Clerical and data entry
+2017-04-11,91,China,other Asia and Oceania,Clerical and data entry
+2017-04-11,9,Colombia,other Americas,Clerical and data entry
+2017-04-11,8,Costa Rica,other Americas,Clerical and data entry
+2017-04-11,8,Croatia,other Europe,Clerical and data entry
+2017-04-11,12,Cyprus,other Europe,Clerical and data entry
+2017-04-11,6,Czech Republic,other Europe,Clerical and data entry
+2017-04-11,44,Denmark,other Europe,Clerical and data entry
+2017-04-11,8,Dominican Republic,other Americas,Clerical and data entry
+2017-04-11,5,Ecuador,other Americas,Clerical and data entry
+2017-04-11,6,Egypt,all Africa,Clerical and data entry
+2017-04-11,3,El Salvador,other Americas,Clerical and data entry
+2017-04-11,25,Estonia,other Europe,Clerical and data entry
+2017-04-11,6,Finland,other Europe,Clerical and data entry
+2017-04-11,99,France,other Europe,Clerical and data entry
+2017-04-11,3,Georgia,other Asia and Oceania,Clerical and data entry
+2017-04-11,194,Germany,other Europe,Clerical and data entry
+2017-04-11,8,Ghana,all Africa,Clerical and data entry
+2017-04-11,16,Greece,other Europe,Clerical and data entry
+2017-04-11,3,Guatemala,other Americas,Clerical and data entry
+2017-04-11,3,Honduras,other Americas,Clerical and data entry
+2017-04-11,127,Hong Kong,other Asia and Oceania,Clerical and data entry
+2017-04-11,27,Hungary,other Europe,Clerical and data entry
+2017-04-11,6,Iceland,other Europe,Clerical and data entry
+2017-04-11,294,India,India,Clerical and data entry
+2017-04-11,9,Indonesia,other Asia and Oceania,Clerical and data entry
+2017-04-11,48,Ireland,other Europe,Clerical and data entry
+2017-04-11,107,Israel,other Asia and Oceania,Clerical and data entry
+2017-04-11,38,Italy,other Europe,Clerical and data entry
+2017-04-11,16,Jamaica,other Americas,Clerical and data entry
+2017-04-11,44,Japan,other Asia and Oceania,Clerical and data entry
+2017-04-11,6,Jordan,all Africa,Clerical and data entry
+2017-04-11,2,Kazakstan,other Europe,Clerical and data entry
+2017-04-11,8,Kenya,all Africa,Clerical and data entry
+2017-04-11,8,Kuwait,other Asia and Oceania,Clerical and data entry
+2017-04-11,12,Latvia,other Europe,Clerical and data entry
+2017-04-11,3,Lebanon,all Africa,Clerical and data entry
+2017-04-11,8,Lithuania,other Europe,Clerical and data entry
+2017-04-11,5,Luxembourg,other Europe,Clerical and data entry
+2017-04-11,2,Macau,other Asia and Oceania,Clerical and data entry
+2017-04-11,2,Macedonia,other Europe,Clerical and data entry
+2017-04-11,41,Malaysia,other Asia and Oceania,Clerical and data entry
+2017-04-11,2,Maldives,other Asia and Oceania,Clerical and data entry
+2017-04-11,9,Malta,other Europe,Clerical and data entry
+2017-04-11,12,Mexico,other Americas,Clerical and data entry
+2017-04-11,2,Moldova,other Europe,Clerical and data entry
+2017-04-11,14,Morocco,all Africa,Clerical and data entry
+2017-04-11,2,Nepal,other Asia and Oceania,Clerical and data entry
+2017-04-11,82,Netherlands,other Europe,Clerical and data entry
+2017-04-11,66,New Zealand,other Asia and Oceania,Clerical and data entry
+2017-04-11,2,Nicaragua,other Americas,Clerical and data entry
+2017-04-11,12,Nigeria,all Africa,Clerical and data entry
+2017-04-11,15,Norway,other Europe,Clerical and data entry
+2017-04-11,3,Oman,other Asia and Oceania,Clerical and data entry
+2017-04-11,46,Pakistan,other Asia and Oceania,Clerical and data entry
+2017-04-11,3,Palestinian Territories,all Africa,Clerical and data entry
+2017-04-11,6,Panama,other Americas,Clerical and data entry
+2017-04-11,9,Peru,other Americas,Clerical and data entry
+2017-04-11,194,Philippines,other Asia and Oceania,Clerical and data entry
+2017-04-11,18,Poland,other Europe,Clerical and data entry
+2017-04-11,15,Portugal,other Europe,Clerical and data entry
+2017-04-11,3,Puerto Rico,other Americas,Clerical and data entry
+2017-04-11,5,Qatar,all Africa,Clerical and data entry
+2017-04-11,2,Republic of Moldova,other Europe,Clerical and data entry
+2017-04-11,28,Romania,other Europe,Clerical and data entry
+2017-04-11,30,Russia,other Europe,Clerical and data entry
+2017-04-11,2,Russian Federation,other Europe,Clerical and data entry
+2017-04-11,46,Saudi Arabia,other Asia and Oceania,Clerical and data entry
+2017-04-11,12,Serbia,other Europe,Clerical and data entry
+2017-04-11,190,Singapore,other Asia and Oceania,Clerical and data entry
+2017-04-11,11,Slovakia,other Europe,Clerical and data entry
+2017-04-11,6,Slovenia,other Europe,Clerical and data entry
+2017-04-11,34,South Africa,all Africa,Clerical and data entry
+2017-04-11,14,South Korea,other Asia and Oceania,Clerical and data entry
+2017-04-11,78,Spain,other Europe,Clerical and data entry
+2017-04-11,12,Sri Lanka,other Asia and Oceania,Clerical and data entry
+2017-04-11,2,Suriname,other Americas,Clerical and data entry
+2017-04-11,38,Sweden,other Europe,Clerical and data entry
+2017-04-11,48,Switzerland,other Europe,Clerical and data entry
+2017-04-11,12,Taiwan,other Asia and Oceania,Clerical and data entry
+2017-04-11,46,Thailand,other Asia and Oceania,Clerical and data entry
+2017-04-11,5,Trinidad and Tobago,all Africa,Clerical and data entry
+2017-04-11,8,Tunisia,all Africa,Clerical and data entry
+2017-04-11,11,Turkey,other Europe,Clerical and data entry
+2017-04-11,2,Uganda,all Africa,Clerical and data entry
+2017-04-11,27,Ukraine,other Europe,Clerical and data entry
+2017-04-11,60,United Arab Emirates,other Asia and Oceania,Clerical and data entry
+2017-04-11,754,United Kingdom,United Kingdom,Clerical and data entry
+2017-04-11,5673,United States,United States,Clerical and data entry
+2017-04-11,2,United States Minor Outlying Islands,United States,Clerical and data entry
+2017-04-11,2,Venezuela,other Americas,Clerical and data entry
+2017-04-11,11,Vietnam,other Asia and Oceania,Clerical and data entry
+2017-04-11,2,Zambia,all Africa,Clerical and data entry
+2017-04-11,2,Albania,other Europe,Creative and multimedia
+2017-04-11,2,Antigua and Barbuda,all Africa,Creative and multimedia
+2017-04-11,9,Argentina,other Americas,Creative and multimedia
+2017-04-11,14,Armenia,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Aruba,other Americas,Creative and multimedia
+2017-04-11,1006,Australia,Australia,Creative and multimedia
+2017-04-11,27,Austria,other Europe,Creative and multimedia
+2017-04-11,9,Azerbaijan,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Bahamas,other Americas,Creative and multimedia
+2017-04-11,15,Bahrain,other Asia and Oceania,Creative and multimedia
+2017-04-11,40,Bangladesh,all Africa,Creative and multimedia
+2017-04-11,7,Belarus,other Europe,Creative and multimedia
+2017-04-11,67,Belgium,other Europe,Creative and multimedia
+2017-04-11,4,Bolivia,other Americas,Creative and multimedia
+2017-04-11,4,Bosnia and Herzegovina,other Europe,Creative and multimedia
+2017-04-11,2,Botswana,all Africa,Creative and multimedia
+2017-04-11,33,Brazil,other Americas,Creative and multimedia
+2017-04-11,18,Bulgaria,other Europe,Creative and multimedia
+2017-04-11,5,Cambodia,other Americas,Creative and multimedia
+2017-04-11,841,Canada,Canada,Creative and multimedia
+2017-04-11,2,Chile,other Americas,Creative and multimedia
+2017-04-11,56,China,other Asia and Oceania,Creative and multimedia
+2017-04-11,15,Colombia,other Americas,Creative and multimedia
+2017-04-11,9,Costa Rica,other Americas,Creative and multimedia
+2017-04-11,23,Croatia,other Europe,Creative and multimedia
+2017-04-11,4,Curacao,other Americas,Creative and multimedia
+2017-04-11,25,Cyprus,other Europe,Creative and multimedia
+2017-04-11,9,Czech Republic,other Europe,Creative and multimedia
+2017-04-11,66,Denmark,other Europe,Creative and multimedia
+2017-04-11,9,Dominican Republic,other Americas,Creative and multimedia
+2017-04-11,2,Ecuador,other Americas,Creative and multimedia
+2017-04-11,31,Egypt,all Africa,Creative and multimedia
+2017-04-11,4,El Salvador,other Americas,Creative and multimedia
+2017-04-11,17,Estonia,other Europe,Creative and multimedia
+2017-04-11,2,Ethiopia,all Africa,Creative and multimedia
+2017-04-11,25,Finland,other Europe,Creative and multimedia
+2017-04-11,109,France,other Europe,Creative and multimedia
+2017-04-11,4,Georgia,other Asia and Oceania,Creative and multimedia
+2017-04-11,231,Germany,other Europe,Creative and multimedia
+2017-04-11,4,Ghana,all Africa,Creative and multimedia
+2017-04-11,20,Greece,other Europe,Creative and multimedia
+2017-04-11,7,Guatemala,other Americas,Creative and multimedia
+2017-04-11,2,Honduras,other Americas,Creative and multimedia
+2017-04-11,85,Hong Kong,other Asia and Oceania,Creative and multimedia
+2017-04-11,14,Hungary,other Europe,Creative and multimedia
+2017-04-11,5,Iceland,other Europe,Creative and multimedia
+2017-04-11,557,India,India,Creative and multimedia
+2017-04-11,23,Indonesia,other Asia and Oceania,Creative and multimedia
+2017-04-11,70,Ireland,other Europe,Creative and multimedia
+2017-04-11,140,Israel,other Asia and Oceania,Creative and multimedia
+2017-04-11,49,Italy,other Europe,Creative and multimedia
+2017-04-11,7,Jamaica,other Americas,Creative and multimedia
+2017-04-11,38,Japan,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Jersey,other Europe,Creative and multimedia
+2017-04-11,12,Jordan,all Africa,Creative and multimedia
+2017-04-11,12,Kenya,all Africa,Creative and multimedia
+2017-04-11,15,Kuwait,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Laos,other Asia and Oceania,Creative and multimedia
+2017-04-11,10,Latvia,other Europe,Creative and multimedia
+2017-04-11,23,Lebanon,all Africa,Creative and multimedia
+2017-04-11,9,Lithuania,other Europe,Creative and multimedia
+2017-04-11,4,Luxembourg,other Europe,Creative and multimedia
+2017-04-11,2,Macau,other Asia and Oceania,Creative and multimedia
+2017-04-11,5,Macedonia,other Europe,Creative and multimedia
+2017-04-11,67,Malaysia,other Asia and Oceania,Creative and multimedia
+2017-04-11,4,Maldives,other Asia and Oceania,Creative and multimedia
+2017-04-11,4,Malta,other Europe,Creative and multimedia
+2017-04-11,9,Mauritius,all Africa,Creative and multimedia
+2017-04-11,38,Mexico,other Americas,Creative and multimedia
+2017-04-11,2,Moldova,other Europe,Creative and multimedia
+2017-04-11,2,Mongolia,other Asia and Oceania,Creative and multimedia
+2017-04-11,25,Morocco,all Africa,Creative and multimedia
+2017-04-11,2,Myanmar,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Namibia,all Africa,Creative and multimedia
+2017-04-11,4,Nepal,other Asia and Oceania,Creative and multimedia
+2017-04-11,114,Netherlands,other Europe,Creative and multimedia
+2017-04-11,106,New Zealand,other Asia and Oceania,Creative and multimedia
+2017-04-11,20,Nigeria,all Africa,Creative and multimedia
+2017-04-11,49,Norway,other Europe,Creative and multimedia
+2017-04-11,18,Oman,other Asia and Oceania,Creative and multimedia
+2017-04-11,108,Pakistan,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Palestinian Territories,all Africa,Creative and multimedia
+2017-04-11,4,Panama,other Americas,Creative and multimedia
+2017-04-11,7,Peru,other Americas,Creative and multimedia
+2017-04-11,69,Philippines,other Asia and Oceania,Creative and multimedia
+2017-04-11,31,Poland,other Europe,Creative and multimedia
+2017-04-11,23,Portugal,other Europe,Creative and multimedia
+2017-04-11,4,Puerto Rico,other Americas,Creative and multimedia
+2017-04-11,20,Qatar,all Africa,Creative and multimedia
+2017-04-11,2,Republic of Moldova,other Europe,Creative and multimedia
+2017-04-11,41,Romania,other Europe,Creative and multimedia
+2017-04-11,35,Russia,other Europe,Creative and multimedia
+2017-04-11,10,Russian Federation,other Europe,Creative and multimedia
+2017-04-11,2,Rwanda,all Africa,Creative and multimedia
+2017-04-11,2,Saint Kitts and Nevis,other Americas,Creative and multimedia
+2017-04-11,2,San Marino,other Europe,Creative and multimedia
+2017-04-11,64,Saudi Arabia,other Asia and Oceania,Creative and multimedia
+2017-04-11,22,Serbia,other Europe,Creative and multimedia
+2017-04-11,173,Singapore,other Asia and Oceania,Creative and multimedia
+2017-04-11,15,Slovakia,other Europe,Creative and multimedia
+2017-04-11,9,Slovenia,other Europe,Creative and multimedia
+2017-04-11,53,South Africa,all Africa,Creative and multimedia
+2017-04-11,18,South Korea,other Asia and Oceania,Creative and multimedia
+2017-04-11,92,Spain,other Europe,Creative and multimedia
+2017-04-11,5,Sri Lanka,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Suriname,other Americas,Creative and multimedia
+2017-04-11,49,Sweden,other Europe,Creative and multimedia
+2017-04-11,87,Switzerland,other Europe,Creative and multimedia
+2017-04-11,5,Taiwan,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Tanzania,all Africa,Creative and multimedia
+2017-04-11,41,Thailand,other Asia and Oceania,Creative and multimedia
+2017-04-11,12,Trinidad and Tobago,all Africa,Creative and multimedia
+2017-04-11,5,Tunisia,all Africa,Creative and multimedia
+2017-04-11,28,Turkey,other Europe,Creative and multimedia
+2017-04-11,2,Uganda,all Africa,Creative and multimedia
+2017-04-11,33,Ukraine,other Europe,Creative and multimedia
+2017-04-11,163,United Arab Emirates,other Asia and Oceania,Creative and multimedia
+2017-04-11,975,United Kingdom,United Kingdom,Creative and multimedia
+2017-04-11,7546,United States,United States,Creative and multimedia
+2017-04-11,2,United States Minor Outlying Islands,United States,Creative and multimedia
+2017-04-11,2,Uruguay,other Americas,Creative and multimedia
+2017-04-11,4,Venezuela,other Americas,Creative and multimedia
+2017-04-11,17,Vietnam,other Asia and Oceania,Creative and multimedia
+2017-04-11,2,Zambia,all Africa,Creative and multimedia
+2017-04-11,1,Albania,other Europe,Professional services
+2017-04-11,1,Algeria,all Africa,Professional services
+2017-04-11,2,Argentina,other Americas,Professional services
+2017-04-11,1,Armenia,other Asia and Oceania,Professional services
+2017-04-11,77,Australia,Australia,Professional services
+2017-04-11,3,Austria,other Europe,Professional services
+2017-04-11,1,Azerbaijan,other Asia and Oceania,Professional services
+2017-04-11,1,Bahamas,other Americas,Professional services
+2017-04-11,1,Bahrain,other Asia and Oceania,Professional services
+2017-04-11,2,Bangladesh,all Africa,Professional services
+2017-04-11,1,Belarus,other Europe,Professional services
+2017-04-11,6,Belgium,other Europe,Professional services
+2017-04-11,1,Benin,all Africa,Professional services
+2017-04-11,1,Bolivia,other Americas,Professional services
+2017-04-11,1,Botswana,all Africa,Professional services
+2017-04-11,3,Brazil,other Americas,Professional services
+2017-04-11,5,Bulgaria,other Europe,Professional services
+2017-04-11,1,Cameroon,all Africa,Professional services
+2017-04-11,75,Canada,Canada,Professional services
+2017-04-11,1,Chile,other Americas,Professional services
+2017-04-11,8,China,other Asia and Oceania,Professional services
+2017-04-11,2,Colombia,other Americas,Professional services
+2017-04-11,1,Costa Rica,other Americas,Professional services
+2017-04-11,1,Croatia,other Europe,Professional services
+2017-04-11,2,Cyprus,other Europe,Professional services
+2017-04-11,3,Czech Republic,other Europe,Professional services
+2017-04-11,5,Denmark,other Europe,Professional services
+2017-04-11,1,Dominican Republic,other Americas,Professional services
+2017-04-11,1,Ecuador,other Americas,Professional services
+2017-04-11,4,Egypt,all Africa,Professional services
+2017-04-11,9,Estonia,other Europe,Professional services
+2017-04-11,3,Finland,other Europe,Professional services
+2017-04-11,8,France,other Europe,Professional services
+2017-04-11,1,Georgia,other Asia and Oceania,Professional services
+2017-04-11,12,Germany,other Europe,Professional services
+2017-04-11,1,Ghana,all Africa,Professional services
+2017-04-11,4,Greece,other Europe,Professional services
+2017-04-11,1,Guatemala,other Americas,Professional services
+2017-04-11,16,Hong Kong,other Asia and Oceania,Professional services
+2017-04-11,1,Hungary,other Europe,Professional services
+2017-04-11,45,India,India,Professional services
+2017-04-11,4,Indonesia,other Asia and Oceania,Professional services
+2017-04-11,9,Ireland,other Europe,Professional services
+2017-04-11,10,Israel,other Asia and Oceania,Professional services
+2017-04-11,6,Italy,other Europe,Professional services
+2017-04-11,1,Jamaica,other Americas,Professional services
+2017-04-11,3,Japan,other Asia and Oceania,Professional services
+2017-04-11,2,Jordan,all Africa,Professional services
+2017-04-11,2,Kenya,all Africa,Professional services
+2017-04-11,2,Kuwait,other Asia and Oceania,Professional services
+2017-04-11,1,Latvia,other Europe,Professional services
+2017-04-11,1,Lebanon,all Africa,Professional services
+2017-04-11,2,Lithuania,other Europe,Professional services
+2017-04-11,1,Luxembourg,other Europe,Professional services
+2017-04-11,1,Macau,other Asia and Oceania,Professional services
+2017-04-11,1,Macedonia,other Europe,Professional services
+2017-04-11,6,Malaysia,other Asia and Oceania,Professional services
+2017-04-11,1,Malta,other Europe,Professional services
+2017-04-11,4,Mexico,other Americas,Professional services
+2017-04-11,1,Moldova,other Europe,Professional services
+2017-04-11,1,Mongolia,other Asia and Oceania,Professional services
+2017-04-11,1,Morocco,all Africa,Professional services
+2017-04-11,12,Netherlands,other Europe,Professional services
+2017-04-11,12,New Zealand,other Asia and Oceania,Professional services
+2017-04-11,1,Nicaragua,other Americas,Professional services
+2017-04-11,3,Nigeria,all Africa,Professional services
+2017-04-11,3,Norway,other Europe,Professional services
+2017-04-11,2,Oman,other Asia and Oceania,Professional services
+2017-04-11,10,Pakistan,other Asia and Oceania,Professional services
+2017-04-11,1,Palestinian Territories,all Africa,Professional services
+2017-04-11,1,Papua New Guinea,other Americas,Professional services
+2017-04-11,1,Peru,other Americas,Professional services
+2017-04-11,15,Philippines,other Asia and Oceania,Professional services
+2017-04-11,4,Poland,other Europe,Professional services
+2017-04-11,2,Portugal,other Europe,Professional services
+2017-04-11,3,Puerto Rico,other Americas,Professional services
+2017-04-11,3,Qatar,all Africa,Professional services
+2017-04-11,3,Romania,other Europe,Professional services
+2017-04-11,4,Russia,other Europe,Professional services
+2017-04-11,1,Russian Federation,other Europe,Professional services
+2017-04-11,1,Saint Kitts and Nevis,other Americas,Professional services
+2017-04-11,11,Saudi Arabia,other Asia and Oceania,Professional services
+2017-04-11,2,Serbia,other Europe,Professional services
+2017-04-11,19,Singapore,other Asia and Oceania,Professional services
+2017-04-11,1,Slovakia,other Europe,Professional services
+2017-04-11,5,South Africa,all Africa,Professional services
+2017-04-11,1,South Korea,other Asia and Oceania,Professional services
+2017-04-11,7,Spain,other Europe,Professional services
+2017-04-11,1,Sri Lanka,other Asia and Oceania,Professional services
+2017-04-11,1,Suriname,other Americas,Professional services
+2017-04-11,4,Sweden,other Europe,Professional services
+2017-04-11,8,Switzerland,other Europe,Professional services
+2017-04-11,4,Thailand,other Asia and Oceania,Professional services
+2017-04-11,1,Trinidad and Tobago,all Africa,Professional services
+2017-04-11,1,Tunisia,all Africa,Professional services
+2017-04-11,3,Turkey,other Europe,Professional services
+2017-04-11,1,Uganda,all Africa,Professional services
+2017-04-11,5,Ukraine,other Europe,Professional services
+2017-04-11,14,United Arab Emirates,other Asia and Oceania,Professional services
+2017-04-11,108,United Kingdom,United Kingdom,Professional services
+2017-04-11,954,United States,United States,Professional services
+2017-04-11,1,United States Minor Outlying Islands,United States,Professional services
+2017-04-11,1,Uruguay,other Americas,Professional services
+2017-04-11,1,Venezuela,other Americas,Professional services
+2017-04-11,2,Vietnam,other Asia and Oceania,Professional services
+2017-04-11,13,Albania,other Europe,Sales and marketing support
+2017-04-11,1,Algeria,all Africa,Sales and marketing support
+2017-04-11,5,Argentina,other Americas,Sales and marketing support
+2017-04-11,2,Armenia,other Asia and Oceania,Sales and marketing support
+2017-04-11,395,Australia,Australia,Sales and marketing support
+2017-04-11,7,Austria,other Europe,Sales and marketing support
+2017-04-11,2,Azerbaijan,other Asia and Oceania,Sales and marketing support
+2017-04-11,7,Bahamas,other Americas,Sales and marketing support
+2017-04-11,2,Bahrain,other Asia and Oceania,Sales and marketing support
+2017-04-11,21,Bangladesh,all Africa,Sales and marketing support
+2017-04-11,3,Belarus,other Europe,Sales and marketing support
+2017-04-11,15,Belgium,other Europe,Sales and marketing support
+2017-04-11,2,Bolivia,other Americas,Sales and marketing support
+2017-04-11,16,Brazil,other Americas,Sales and marketing support
+2017-04-11,13,Bulgaria,other Europe,Sales and marketing support
+2017-04-11,3,Cameroon,all Africa,Sales and marketing support
+2017-04-11,361,Canada,Canada,Sales and marketing support
+2017-04-11,2,Chile,other Americas,Sales and marketing support
+2017-04-11,33,China,other Asia and Oceania,Sales and marketing support
+2017-04-11,4,Colombia,other Americas,Sales and marketing support
+2017-04-11,7,Costa Rica,other Americas,Sales and marketing support
+2017-04-11,5,Croatia,other Europe,Sales and marketing support
+2017-04-11,2,Curacao,other Americas,Sales and marketing support
+2017-04-11,4,Cyprus,other Europe,Sales and marketing support
+2017-04-11,11,Czech Republic,other Europe,Sales and marketing support
+2017-04-11,22,Denmark,other Europe,Sales and marketing support
+2017-04-11,2,Dominica,other Americas,Sales and marketing support
+2017-04-11,7,Dominican Republic,other Americas,Sales and marketing support
+2017-04-11,2,Ecuador,other Americas,Sales and marketing support
+2017-04-11,10,Egypt,all Africa,Sales and marketing support
+2017-04-11,12,Estonia,other Europe,Sales and marketing support
+2017-04-11,9,Finland,other Europe,Sales and marketing support
+2017-04-11,57,France,other Europe,Sales and marketing support
+2017-04-11,79,Germany,other Europe,Sales and marketing support
+2017-04-11,12,Greece,other Europe,Sales and marketing support
+2017-04-11,1,Guatemala,other Americas,Sales and marketing support
+2017-04-11,40,Hong Kong,other Asia and Oceania,Sales and marketing support
+2017-04-11,4,Hungary,other Europe,Sales and marketing support
+2017-04-11,236,India,India,Sales and marketing support
+2017-04-11,9,Indonesia,other Asia and Oceania,Sales and marketing support
+2017-04-11,31,Ireland,other Europe,Sales and marketing support
+2017-04-11,75,Israel,other Asia and Oceania,Sales and marketing support
+2017-04-11,21,Italy,other Europe,Sales and marketing support
+2017-04-11,3,Jamaica,other Americas,Sales and marketing support
+2017-04-11,15,Japan,other Asia and Oceania,Sales and marketing support
+2017-04-11,1,Jersey,other Europe,Sales and marketing support
+2017-04-11,4,Jordan,all Africa,Sales and marketing support
+2017-04-11,3,Kenya,all Africa,Sales and marketing support
+2017-04-11,2,Kuwait,other Asia and Oceania,Sales and marketing support
+2017-04-11,5,Latvia,other Europe,Sales and marketing support
+2017-04-11,6,Lebanon,all Africa,Sales and marketing support
+2017-04-11,17,Lithuania,other Europe,Sales and marketing support
+2017-04-11,19,Malaysia,other Asia and Oceania,Sales and marketing support
+2017-04-11,1,Maldives,other Asia and Oceania,Sales and marketing support
+2017-04-11,5,Malta,other Europe,Sales and marketing support
+2017-04-11,4,Mauritius,all Africa,Sales and marketing support
+2017-04-11,13,Mexico,other Americas,Sales and marketing support
+2017-04-11,6,Morocco,all Africa,Sales and marketing support
+2017-04-11,2,Namibia,all Africa,Sales and marketing support
+2017-04-11,1,Nepal,other Asia and Oceania,Sales and marketing support
+2017-04-11,43,Netherlands,other Europe,Sales and marketing support
+2017-04-11,28,New Zealand,other Asia and Oceania,Sales and marketing support
+2017-04-11,9,Nigeria,all Africa,Sales and marketing support
+2017-04-11,11,Norway,other Europe,Sales and marketing support
+2017-04-11,28,Pakistan,other Asia and Oceania,Sales and marketing support
+2017-04-11,3,Palestinian Territories,all Africa,Sales and marketing support
+2017-04-11,6,Panama,other Americas,Sales and marketing support
+2017-04-11,9,Peru,other Americas,Sales and marketing support
+2017-04-11,34,Philippines,other Asia and Oceania,Sales and marketing support
+2017-04-11,12,Poland,other Europe,Sales and marketing support
+2017-04-11,7,Portugal,other Europe,Sales and marketing support
+2017-04-11,3,Puerto Rico,other Americas,Sales and marketing support
+2017-04-11,2,Qatar,all Africa,Sales and marketing support
+2017-04-11,13,Romania,other Europe,Sales and marketing support
+2017-04-11,29,Russia,other Europe,Sales and marketing support
+2017-04-11,3,Russian Federation,other Europe,Sales and marketing support
+2017-04-11,1,Saint Kitts and Nevis,other Americas,Sales and marketing support
+2017-04-11,13,Saudi Arabia,other Asia and Oceania,Sales and marketing support
+2017-04-11,10,Serbia,other Europe,Sales and marketing support
+2017-04-11,65,Singapore,other Asia and Oceania,Sales and marketing support
+2017-04-11,2,Slovakia,other Europe,Sales and marketing support
+2017-04-11,2,Slovenia,other Europe,Sales and marketing support
+2017-04-11,18,South Africa,all Africa,Sales and marketing support
+2017-04-11,4,South Korea,other Asia and Oceania,Sales and marketing support
+2017-04-11,33,Spain,other Europe,Sales and marketing support
+2017-04-11,8,Sri Lanka,other Asia and Oceania,Sales and marketing support
+2017-04-11,1,Suriname,other Americas,Sales and marketing support
+2017-04-11,17,Sweden,other Europe,Sales and marketing support
+2017-04-11,25,Switzerland,other Europe,Sales and marketing support
+2017-04-11,6,Taiwan,other Asia and Oceania,Sales and marketing support
+2017-04-11,3,Tanzania,all Africa,Sales and marketing support
+2017-04-11,15,Thailand,other Asia and Oceania,Sales and marketing support
+2017-04-11,2,Trinidad and Tobago,all Africa,Sales and marketing support
+2017-04-11,8,Turkey,other Europe,Sales and marketing support
+2017-04-11,1,Uganda,all Africa,Sales and marketing support
+2017-04-11,26,Ukraine,other Europe,Sales and marketing support
+2017-04-11,59,United Arab Emirates,other Asia and Oceania,Sales and marketing support
+2017-04-11,437,United Kingdom,United Kingdom,Sales and marketing support
+2017-04-11,3141,United States,United States,Sales and marketing support
+2017-04-11,3,Uruguay,other Americas,Sales and marketing support
+2017-04-11,1,Venezuela,other Americas,Sales and marketing support
+2017-04-11,13,Vietnam,other Asia and Oceania,Sales and marketing support
+2017-04-11,19,Albania,other Europe,Software development and technology
+2017-04-11,12,Algeria,all Africa,Software development and technology
+2017-04-11,1,Antigua and Barbuda,all Africa,Software development and technology
+2017-04-11,37,Argentina,other Americas,Software development and technology
+2017-04-11,17,Armenia,other Asia and Oceania,Software development and technology
+2017-04-11,1322,Australia,Australia,Software development and technology
+2017-04-11,61,Austria,other Europe,Software development and technology
+2017-04-11,8,Azerbaijan,other Asia and Oceania,Software development and technology
+2017-04-11,3,Bahamas,other Americas,Software development and technology
+2017-04-11,12,Bahrain,other Asia and Oceania,Software development and technology
+2017-04-11,58,Bangladesh,all Africa,Software development and technology
+2017-04-11,5,Belarus,other Europe,Software development and technology
+2017-04-11,96,Belgium,other Europe,Software development and technology
+2017-04-11,1,Bolivia,other Americas,Software development and technology
+2017-04-11,11,Bosnia And Herzegovina,other Europe,Software development and technology
+2017-04-11,2,Botswana,all Africa,Software development and technology
+2017-04-11,114,Brazil,other Americas,Software development and technology
+2017-04-11,42,Bulgaria,other Europe,Software development and technology
+2017-04-11,2,Burkina Faso,all Africa,Software development and technology
+2017-04-11,9,Cambodia,other Americas,Software development and technology
+2017-04-11,3,Cameroon,all Africa,Software development and technology
+2017-04-11,1228,Canada,Canada,Software development and technology
+2017-04-11,13,Chile,other Americas,Software development and technology
+2017-04-11,146,China,other Asia and Oceania,Software development and technology
+2017-04-11,26,Colombia,other Americas,Software development and technology
+2017-04-11,15,Costa Rica,other Americas,Software development and technology
+2017-04-11,25,Croatia,other Europe,Software development and technology
+2017-04-11,7,Curacao,other Americas,Software development and technology
+2017-04-11,24,Cyprus,other Europe,Software development and technology
+2017-04-11,35,Czech Republic,other Europe,Software development and technology
+2017-04-11,111,Denmark,other Europe,Software development and technology
+2017-04-11,1,Dominica,other Americas,Software development and technology
+2017-04-11,11,Dominican Republic,other Americas,Software development and technology
+2017-04-11,7,Ecuador,other Americas,Software development and technology
+2017-04-11,61,Egypt,all Africa,Software development and technology
+2017-04-11,5,El Salvador,other Americas,Software development and technology
+2017-04-11,78,Estonia,other Europe,Software development and technology
+2017-04-11,33,Finland,other Europe,Software development and technology
+2017-04-11,217,France,other Europe,Software development and technology
+2017-04-11,7,French Polynesia,other Americas,Software development and technology
+2017-04-11,10,Georgia,other Asia and Oceania,Software development and technology
+2017-04-11,398,Germany,other Europe,Software development and technology
+2017-04-11,13,Ghana,all Africa,Software development and technology
+2017-04-11,50,Greece,other Europe,Software development and technology
+2017-04-11,6,Guatemala,other Americas,Software development and technology
+2017-04-11,5,Honduras,other Americas,Software development and technology
+2017-04-11,158,Hong Kong,other Asia and Oceania,Software development and technology
+2017-04-11,19,Hungary,other Europe,Software development and technology
+2017-04-11,8,Iceland,other Europe,Software development and technology
+2017-04-11,1497,India,India,Software development and technology
+2017-04-11,57,Indonesia,other Asia and Oceania,Software development and technology
+2017-04-11,120,Ireland,other Europe,Software development and technology
+2017-04-11,250,Israel,other Asia and Oceania,Software development and technology
+2017-04-11,119,Italy,other Europe,Software development and technology
+2017-04-11,12,Jamaica,other Americas,Software development and technology
+2017-04-11,71,Japan,other Asia and Oceania,Software development and technology
+2017-04-11,2,Jersey,other Europe,Software development and technology
+2017-04-11,31,Jordan,all Africa,Software development and technology
+2017-04-11,2,Kazakstan,other Europe,Software development and technology
+2017-04-11,48,Kenya,all Africa,Software development and technology
+2017-04-11,36,Kuwait,other Asia and Oceania,Software development and technology
+2017-04-11,10,Latvia,other Europe,Software development and technology
+2017-04-11,36,Lebanon,all Africa,Software development and technology
+2017-04-11,18,Lithuania,other Europe,Software development and technology
+2017-04-11,12,Luxembourg,other Europe,Software development and technology
+2017-04-11,11,Macedonia,other Europe,Software development and technology
+2017-04-11,3,Madagascar,other Asia and Oceania,Software development and technology
+2017-04-11,158,Malaysia,other Asia and Oceania,Software development and technology
+2017-04-11,2,Maldives,other Asia and Oceania,Software development and technology
+2017-04-11,17,Malta,other Europe,Software development and technology
+2017-04-11,5,Mauritius,all Africa,Software development and technology
+2017-04-11,59,Mexico,other Americas,Software development and technology
+2017-04-11,11,Moldova,other Europe,Software development and technology
+2017-04-11,2,Monaco,other Europe,Software development and technology
+2017-04-11,19,Morocco,all Africa,Software development and technology
+2017-04-11,5,Namibia,all Africa,Software development and technology
+2017-04-11,7,Nepal,other Asia and Oceania,Software development and technology
+2017-04-11,239,Netherlands,other Europe,Software development and technology
+2017-04-11,151,New Zealand,other Asia and Oceania,Software development and technology
+2017-04-11,3,Nicaragua,other Americas,Software development and technology
+2017-04-11,68,Nigeria,all Africa,Software development and technology
+2017-04-11,72,Norway,other Europe,Software development and technology
+2017-04-11,18,Oman,other Asia and Oceania,Software development and technology
+2017-04-11,204,Pakistan,other Asia and Oceania,Software development and technology
+2017-04-11,4,Palestinian Territories,all Africa,Software development and technology
+2017-04-11,16,Panama,other Americas,Software development and technology
+2017-04-11,1,Papua New Guinea,other Americas,Software development and technology
+2017-04-11,2,Paraguay,other Americas,Software development and technology
+2017-04-11,20,Peru,other Americas,Software development and technology
+2017-04-11,122,Philippines,other Asia and Oceania,Software development and technology
+2017-04-11,39,Poland,other Europe,Software development and technology
+2017-04-11,44,Portugal,other Europe,Software development and technology
+2017-04-11,10,Puerto Rico,other Americas,Software development and technology
+2017-04-11,34,Qatar,all Africa,Software development and technology
+2017-04-11,4,Republic of Moldova,other Europe,Software development and technology
+2017-04-11,78,Romania,other Europe,Software development and technology
+2017-04-11,97,Russia,other Europe,Software development and technology
+2017-04-11,21,Russian Federation,other Europe,Software development and technology
+2017-04-11,3,Rwanda,all Africa,Software development and technology
+2017-04-11,155,Saudi Arabia,other Asia and Oceania,Software development and technology
+2017-04-11,26,Serbia,other Europe,Software development and technology
+2017-04-11,3,Sierra Leone,all Africa,Software development and technology
+2017-04-11,338,Singapore,other Asia and Oceania,Software development and technology
+2017-04-11,17,Slovakia,other Europe,Software development and technology
+2017-04-11,14,Slovenia,other Europe,Software development and technology
+2017-04-11,1,Somalia,all Africa,Software development and technology
+2017-04-11,96,South Africa,all Africa,Software development and technology
+2017-04-11,35,South Korea,other Asia and Oceania,Software development and technology
+2017-04-11,174,Spain,other Europe,Software development and technology
+2017-04-11,26,Sri Lanka,other Asia and Oceania,Software development and technology
+2017-04-11,118,Sweden,other Europe,Software development and technology
+2017-04-11,148,Switzerland,other Europe,Software development and technology
+2017-04-11,23,Taiwan,other Asia and Oceania,Software development and technology
+2017-04-11,12,Tanzania,all Africa,Software development and technology
+2017-04-11,65,Thailand,other Asia and Oceania,Software development and technology
+2017-04-11,14,Trinidad and Tobago,all Africa,Software development and technology
+2017-04-11,12,Tunisia,all Africa,Software development and technology
+2017-04-11,64,Turkey,other Europe,Software development and technology
+2017-04-11,10,Uganda,all Africa,Software development and technology
+2017-04-11,118,Ukraine,other Europe,Software development and technology
+2017-04-11,241,United Arab Emirates,other Asia and Oceania,Software development and technology
+2017-04-11,1582,United Kingdom,United Kingdom,Software development and technology
+2017-04-11,10884,United States,United States,Software development and technology
+2017-04-11,3,United States Minor Outlying Islands,United States,Software development and technology
+2017-04-11,12,Uruguay,other Americas,Software development and technology
+2017-04-11,7,Venezuela,other Americas,Software development and technology
+2017-04-11,25,Vietnam,other Asia and Oceania,Software development and technology
+2017-04-11,5,Zambia,all Africa,Software development and technology
+2017-04-11,8,Albania,other Europe,Writing and translation
+2017-04-11,6,Algeria,all Africa,Writing and translation
+2017-04-11,1,Antigua and Barbuda,all Africa,Writing and translation
+2017-04-11,12,Argentina,other Americas,Writing and translation
+2017-04-11,11,Armenia,other Asia and Oceania,Writing and translation
+2017-04-11,8,Aruba,other Americas,Writing and translation
+2017-04-11,342,Australia,Australia,Writing and translation
+2017-04-11,23,Austria,other Europe,Writing and translation
+2017-04-11,4,Azerbaijan,other Asia and Oceania,Writing and translation
+2017-04-11,2,Bahamas,other Americas,Writing and translation
+2017-04-11,7,Bahrain,other Asia and Oceania,Writing and translation
+2017-04-11,28,Bangladesh,all Africa,Writing and translation
+2017-04-11,3,Belarus,other Europe,Writing and translation
+2017-04-11,44,Belgium,other Europe,Writing and translation
+2017-04-11,1,Bolivia,other Americas,Writing and translation
+2017-04-11,6,Bosnia and Herzegovina,other Europe,Writing and translation
+2017-04-11,3,Botswana,all Africa,Writing and translation
+2017-04-11,21,Brazil,other Americas,Writing and translation
+2017-04-11,19,Bulgaria,other Europe,Writing and translation
+2017-04-11,5,Cambodia,other Americas,Writing and translation
+2017-04-11,392,Canada,Canada,Writing and translation
+2017-04-11,4,Chile,other Americas,Writing and translation
+2017-04-11,126,China,other Asia and Oceania,Writing and translation
+2017-04-11,7,Colombia,other Americas,Writing and translation
+2017-04-11,4,Costa Rica,other Americas,Writing and translation
+2017-04-11,14,Croatia,other Europe,Writing and translation
+2017-04-11,2,Curacao,other Americas,Writing and translation
+2017-04-11,35,Cyprus,other Europe,Writing and translation
+2017-04-11,18,Czech Republic,other Europe,Writing and translation
+2017-04-11,39,Denmark,other Europe,Writing and translation
+2017-04-11,2,Dominica,other Americas,Writing and translation
+2017-04-11,4,Dominican Republic,other Americas,Writing and translation
+2017-04-11,2,Ecuador,other Americas,Writing and translation
+2017-04-11,24,Egypt,all Africa,Writing and translation
+2017-04-11,45,Estonia,other Europe,Writing and translation
+2017-04-11,1,Ethiopia,all Africa,Writing and translation
+2017-04-11,12,Finland,other Europe,Writing and translation
+2017-04-11,104,France,other Europe,Writing and translation
+2017-04-11,1,French Polynesia,other Americas,Writing and translation
+2017-04-11,2,Georgia,other Asia and Oceania,Writing and translation
+2017-04-11,162,Germany,other Europe,Writing and translation
+2017-04-11,1,Ghana,all Africa,Writing and translation
+2017-04-11,14,Greece,other Europe,Writing and translation
+2017-04-11,3,Guatemala,other Americas,Writing and translation
+2017-04-11,9,Honduras,other Americas,Writing and translation
+2017-04-11,63,Hong Kong,other Asia and Oceania,Writing and translation
+2017-04-11,20,Hungary,other Europe,Writing and translation
+2017-04-11,2,Iceland,other Europe,Writing and translation
+2017-04-11,380,India,India,Writing and translation
+2017-04-11,12,Indonesia,other Asia and Oceania,Writing and translation
+2017-04-11,45,Ireland,other Europe,Writing and translation
+2017-04-11,96,Israel,other Asia and Oceania,Writing and translation
+2017-04-11,79,Italy,other Europe,Writing and translation
+2017-04-11,5,Jamaica,other Americas,Writing and translation
+2017-04-11,36,Japan,other Asia and Oceania,Writing and translation
+2017-04-11,15,Jordan,all Africa,Writing and translation
+2017-04-11,23,Kenya,all Africa,Writing and translation
+2017-04-11,7,Kuwait,other Asia and Oceania,Writing and translation
+2017-04-11,1,Laos,other Asia and Oceania,Writing and translation
+2017-04-11,16,Latvia,other Europe,Writing and translation
+2017-04-11,13,Lebanon,all Africa,Writing and translation
+2017-04-11,25,Lithuania,other Europe,Writing and translation
+2017-04-11,6,Luxembourg,other Europe,Writing and translation
+2017-04-11,7,Macedonia,other Europe,Writing and translation
+2017-04-11,1,Madagascar,other Asia and Oceania,Writing and translation
+2017-04-11,41,Malaysia,other Asia and Oceania,Writing and translation
+2017-04-11,1,Maldives,other Asia and Oceania,Writing and translation
+2017-04-11,12,Malta,other Europe,Writing and translation
+2017-04-11,6,Mauritius,all Africa,Writing and translation
+2017-04-11,21,Mexico,other Americas,Writing and translation
+2017-04-11,1,Moldova,other Europe,Writing and translation
+2017-04-11,1,Monaco,other Europe,Writing and translation
+2017-04-11,25,Morocco,all Africa,Writing and translation
+2017-04-11,1,Nepal,other Asia and Oceania,Writing and translation
+2017-04-11,110,Netherlands,other Europe,Writing and translation
+2017-04-11,28,New Zealand,other Asia and Oceania,Writing and translation
+2017-04-11,2,Nicaragua,other Americas,Writing and translation
+2017-04-11,17,Nigeria,all Africa,Writing and translation
+2017-04-11,22,Norway,other Europe,Writing and translation
+2017-04-11,5,Oman,other Asia and Oceania,Writing and translation
+2017-04-11,54,Pakistan,other Asia and Oceania,Writing and translation
+2017-04-11,12,Palestinian Territories,all Africa,Writing and translation
+2017-04-11,2,Panama,other Americas,Writing and translation
+2017-04-11,4,Peru,other Americas,Writing and translation
+2017-04-11,141,Philippines,other Asia and Oceania,Writing and translation
+2017-04-11,41,Poland,other Europe,Writing and translation
+2017-04-11,14,Portugal,other Europe,Writing and translation
+2017-04-11,6,Puerto Rico,other Americas,Writing and translation
+2017-04-11,9,Qatar,all Africa,Writing and translation
+2017-04-11,44,Romania,other Europe,Writing and translation
+2017-04-11,92,Russia,other Europe,Writing and translation
+2017-04-11,4,Russian Federation,other Europe,Writing and translation
+2017-04-11,3,Saint Kitts and Nevis,other Americas,Writing and translation
+2017-04-11,33,Saudi Arabia,other Asia and Oceania,Writing and translation
+2017-04-11,9,Serbia,other Europe,Writing and translation
+2017-04-11,172,Singapore,other Asia and Oceania,Writing and translation
+2017-04-11,12,Slovakia,other Europe,Writing and translation
+2017-04-11,12,Slovenia,other Europe,Writing and translation
+2017-04-11,17,South Africa,all Africa,Writing and translation
+2017-04-11,24,South Korea,other Asia and Oceania,Writing and translation
+2017-04-11,127,Spain,other Europe,Writing and translation
+2017-04-11,10,Sri Lanka,other Asia and Oceania,Writing and translation
+2017-04-11,44,Sweden,other Europe,Writing and translation
+2017-04-11,67,Switzerland,other Europe,Writing and translation
+2017-04-11,10,Taiwan,other Asia and Oceania,Writing and translation
+2017-04-11,2,Tanzania,all Africa,Writing and translation
+2017-04-11,33,Thailand,other Asia and Oceania,Writing and translation
+2017-04-11,3,Trinidad and Tobago,all Africa,Writing and translation
+2017-04-11,2,Tunisia,all Africa,Writing and translation
+2017-04-11,28,Turkey,other Europe,Writing and translation
+2017-04-11,1,Uganda,all Africa,Writing and translation
+2017-04-11,90,Ukraine,other Europe,Writing and translation
+2017-04-11,82,United Arab Emirates,other Asia and Oceania,Writing and translation
+2017-04-11,638,United Kingdom,United Kingdom,Writing and translation
+2017-04-11,3125,United States,United States,Writing and translation
+2017-04-11,1,United States Minor Outlying Islands,United States,Writing and translation
+2017-04-11,9,Uruguay,other Americas,Writing and translation
+2017-04-11,3,Venezuela,other Americas,Writing and translation
+2017-04-11,76,Vietnam,other Asia and Oceania,Writing and translation
+2017-04-11,1,Zambia,all Africa,Writing and translation

@@ -1,0 +1,36 @@
+trace,x,y
+[MQ 16] Local,0.1,1
+[MQ 16] Thesaurus,0.1,1
+[MQ 1] Local,0.1,0.1111
+[MQ 1] Thesaurus,0.1,0.09091
+Mutect,0.1,0.002611
+[MQ 16] Local,0.2,4.653e-7
+[MQ 16] Thesaurus,0.2,4.657e-7
+[MQ 1] Local,0.2,0.0058
+[MQ 1] Thesaurus,0.2,4.4e-7
+Mutect,0.2,3.762e-7
+[MQ 16] Local,0.3,3.69e-7
+[MQ 16] Thesaurus,0.3,3.698e-7
+[MQ 1] Local,0.3,0.01817
+[MQ 1] Thesaurus,0.3,3.442e-7
+Mutect,0.3,2.592e-6
+[MQ 16] Local,0.4,1.101e-6
+[MQ 16] Thesaurus,0.4,3.683e-7
+[MQ 1] Local,0.4,0.03381
+[MQ 1] Thesaurus,0.4,3.397e-7
+Mutect,0.4,7.752e-6
+[MQ 16] Local,0.6,3.288e-6
+[MQ 16] Thesaurus,0.6,3.67e-7
+[MQ 1] Local,0.6,0.0593
+[MQ 1] Thesaurus,0.6,3.029e-6
+Mutect,0.6,1.804e-5
+[MQ 16] Local,0.8,6.924e-6
+[MQ 16] Thesaurus,0.8,3.662e-7
+[MQ 1] Local,0.8,0.07818
+[MQ 1] Thesaurus,0.8,9.059e-6
+Mutect,0.8,3.052e-5
+[MQ 16] Local,1,1.128e-5
+[MQ 16] Thesaurus,1,3.657e-7
+[MQ 1] Local,1,0.09377
+[MQ 1] Thesaurus,1,1.307e-5
+Mutect,1,4.37e-5
